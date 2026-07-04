@@ -1,0 +1,31 @@
+# ── Python (backend) ──────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.env
+*.log
+
+# ── Next.js (frontend) ────────────────────────────
+node_modules/
+.next/
+out/
+.env.local
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# ── Misc ───────────────────────────────────────────
+*.mp3
+*.m4a
+*.webm
+*.opus
+.vscode/
