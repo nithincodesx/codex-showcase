@@ -1,4 +1,4 @@
-# CODEX — Voice Assistant
+# CODEX — Voice Assistant (On going)
 
 > **Status: Actively in development.** This is a showcase repo for CODEX, a voice assistant I'm building from scratch. Core pipeline is working end-to-end; more capabilities are being added continuously. Full source lives in private working repos — this page documents the architecture, decisions, and progress.
 
