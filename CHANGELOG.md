@@ -19,3 +19,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-02 17:27:12 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-02 18:04:28 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-02 18:34:44 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
+| 2026-09-02 19:12:00 | `chore(repo)` | initialize repository structure and submodule deprecation |
