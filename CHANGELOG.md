@@ -22,3 +22,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-02 19:12:00 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-02 19:49:16 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-02 20:26:32 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
+| 2026-09-02 21:03:48 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
