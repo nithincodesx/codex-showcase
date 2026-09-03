@@ -39,3 +39,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-03 18:16:29 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-03 18:50:50 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-03 19:32:11 | `feat(frontend)` | implement HUD header with audio input level indicators |
+| 2026-09-03 20:13:32 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
