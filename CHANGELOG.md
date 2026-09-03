@@ -33,3 +33,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-03 14:08:23 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-03 14:49:44 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-03 15:31:05 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
+| 2026-09-03 16:12:26 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
