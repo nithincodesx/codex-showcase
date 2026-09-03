@@ -38,3 +38,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-03 17:35:08 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-03 18:16:29 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-03 18:50:50 | `chore(config)` | configure TypeScript paths and ESLint rules |
+| 2026-09-03 19:32:11 | `feat(frontend)` | implement HUD header with audio input level indicators |
