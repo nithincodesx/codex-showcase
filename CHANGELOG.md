@@ -27,3 +27,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-03 10:00:17 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-03 10:41:38 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-03 11:22:59 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
+| 2026-09-03 12:04:20 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
