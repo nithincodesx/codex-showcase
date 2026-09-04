@@ -43,3 +43,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-03 20:54:53 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-03 21:36:14 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-04 10:00:34 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
+| 2026-09-04 10:47:01 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
