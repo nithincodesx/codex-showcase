@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-02 10:00:00 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-02 10:37:16 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-02 11:14:32 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-02 11:51:48 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-04 16:58:39 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-04 17:45:06 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-04 18:31:33 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
+| 2026-09-04 19:18:01 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
