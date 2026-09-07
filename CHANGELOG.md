@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-02 14:20:52 | `feat(frontend)` | implement HUD header with audio input level indicators |
 | 2026-09-02 14:58:08 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-02 15:35:24 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-02 16:12:40 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-07 10:00:51 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-07 10:38:07 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-07 11:15:23 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
+| 2026-09-07 11:52:39 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
