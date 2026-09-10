@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-03 18:50:50 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-03 19:32:11 | `feat(frontend)` | implement HUD header with audio input level indicators |
 | 2026-09-03 20:13:32 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-03 20:54:53 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-10 13:44:44 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-10 14:22:00 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-10 14:59:16 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
+| 2026-09-10 15:36:32 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
