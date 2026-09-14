@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-04 16:12:12 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-04 16:58:39 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-04 17:45:06 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-04 18:31:33 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-10 21:42:12 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-14 10:01:25 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-14 10:42:46 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
+| 2026-09-14 11:24:07 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
