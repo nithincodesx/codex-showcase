@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-04 14:39:17 | `feat(frontend)` | implement HUD header with audio input level indicators |
 | 2026-09-04 15:25:44 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-04 16:12:12 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-04 16:58:39 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-10 20:27:40 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-10 21:04:56 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-10 21:42:12 | `chore(config)` | configure TypeScript paths and ESLint rules |
+| 2026-09-14 10:01:25 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
