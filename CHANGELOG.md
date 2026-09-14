@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-07 10:38:07 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-07 11:15:23 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-07 11:52:39 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-07 12:29:55 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-14 15:32:13 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-14 16:13:34 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-14 16:54:55 | `style(frontend)` | define military terminal color palette and CRT scanlines |
+| 2026-09-14 17:29:16 | `chore(config)` | configure TypeScript paths and ESLint rules |
