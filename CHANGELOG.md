@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-07 11:52:39 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-07 12:29:55 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-07 13:07:11 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-07 13:44:27 | `chore(repo)` | initialize repository structure and submodule deprecation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-14 16:54:55 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-14 17:29:16 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-14 18:10:37 | `feat(frontend)` | implement HUD header with audio input level indicators |
+| 2026-09-14 18:51:58 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
