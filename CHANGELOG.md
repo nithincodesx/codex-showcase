@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-07 21:41:55 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-10 10:01:08 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-10 10:38:24 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-10 11:15:40 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-15 16:13:20 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-15 16:59:47 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-15 17:46:14 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
+| 2026-09-15 18:25:41 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
