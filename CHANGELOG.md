@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-07 19:50:07 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-07 20:27:23 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-07 21:04:39 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-07 21:41:55 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-15 13:53:58 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-15 14:40:25 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-15 15:26:52 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
+| 2026-09-15 16:13:20 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
