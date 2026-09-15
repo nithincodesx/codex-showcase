@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-07 14:58:59 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-07 15:36:15 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-07 16:13:31 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-07 16:50:47 | `style(frontend)` | define military terminal color palette and CRT scanlines |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-14 20:14:40 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-14 20:56:01 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-14 21:37:22 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
+| 2026-09-15 10:01:42 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
