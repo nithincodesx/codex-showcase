@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-14 12:05:28 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-14 12:46:49 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-14 13:28:10 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-14 14:09:31 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-16 19:51:15 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-16 20:28:31 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-16 21:05:47 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
+| 2026-09-16 21:43:03 | `chore(repo)` | initialize repository structure and submodule deprecation |
