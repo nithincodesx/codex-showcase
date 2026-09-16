@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-10 19:50:24 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-10 20:27:40 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-10 21:04:56 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-10 21:42:12 | `chore(config)` | configure TypeScript paths and ESLint rules |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-16 15:37:23 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-16 16:07:39 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-16 16:44:55 | `feat(frontend)` | implement HUD header with audio input level indicators |
+| 2026-09-16 17:22:11 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
