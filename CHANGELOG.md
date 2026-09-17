@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-15 11:34:36 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-15 12:21:03 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-15 13:07:31 | `feat(frontend)` | implement HUD header with audio input level indicators |
 | 2026-09-15 13:53:58 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-17 17:59:44 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-17 18:37:00 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-17 19:14:16 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
+| 2026-09-17 19:51:32 | `style(frontend)` | define military terminal color palette and CRT scanlines |
