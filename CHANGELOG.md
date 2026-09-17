@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-14 13:28:10 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-14 14:09:31 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-14 14:50:52 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-14 15:32:13 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-16 21:05:47 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-16 21:43:03 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-17 10:02:16 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
+| 2026-09-17 10:39:32 | `style(frontend)` | define military terminal color palette and CRT scanlines |
