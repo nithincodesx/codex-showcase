@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-14 14:50:52 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-14 15:32:13 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-14 16:13:34 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-14 16:54:55 | `style(frontend)` | define military terminal color palette and CRT scanlines |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-17 10:02:16 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-17 10:39:32 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-17 11:16:48 | `chore(config)` | configure TypeScript paths and ESLint rules |
+| 2026-09-17 11:54:04 | `feat(frontend)` | implement HUD header with audio input level indicators |
