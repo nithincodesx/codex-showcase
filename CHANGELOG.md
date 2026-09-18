@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-15 19:58:36 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-15 20:45:03 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-15 21:31:30 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-16 10:01:59 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-18 12:47:57 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-18 13:29:18 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-18 14:10:39 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
+| 2026-09-18 14:52:00 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
