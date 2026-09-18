@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-16 11:53:47 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-16 12:31:03 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-16 13:08:19 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-16 13:45:35 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-18 16:49:03 | `feat(frontend)` | implement HUD header with audio input level indicators |
 | 2026-09-18 17:30:24 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-18 18:11:45 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
+| 2026-09-18 18:53:06 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
