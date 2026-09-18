@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-16 13:08:19 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-16 13:45:35 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-16 14:22:51 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-16 15:00:07 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-18 18:11:45 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-18 18:53:06 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-18 19:34:27 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
+| 2026-09-18 20:15:48 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
