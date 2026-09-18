@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-16 14:22:51 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-16 15:00:07 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-16 15:37:23 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-16 16:07:39 | `chore(config)` | configure TypeScript paths and ESLint rules |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-18 19:34:27 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-18 20:15:48 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-18 20:57:09 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
+| 2026-09-18 21:38:30 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
