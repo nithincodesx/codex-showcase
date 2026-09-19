@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-16 19:13:59 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-16 19:51:15 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-16 20:28:31 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-16 21:05:47 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-19 13:08:39 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-19 13:55:06 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-19 14:41:33 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
+| 2026-09-19 15:28:00 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
