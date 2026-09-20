@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-17 12:31:20 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-17 13:08:36 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-17 13:45:52 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-17 14:23:08 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-19 19:59:44 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-19 20:46:11 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-19 21:32:38 | `style(frontend)` | define military terminal color palette and CRT scanlines |
+| 2026-09-20 10:03:07 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
