@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-17 17:22:28 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-17 17:59:44 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-17 18:37:00 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-17 19:14:16 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-20 13:09:27 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-20 13:46:43 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-20 14:23:59 | `style(frontend)` | define military terminal color palette and CRT scanlines |
+| 2026-09-20 14:54:15 | `chore(config)` | configure TypeScript paths and ESLint rules |
