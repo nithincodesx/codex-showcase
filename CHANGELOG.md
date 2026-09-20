@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-17 14:23:08 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-17 15:00:24 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-17 15:37:40 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-17 16:07:56 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-20 10:03:07 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-20 10:40:23 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-20 11:17:39 | `chore(repo)` | initialize repository structure and submodule deprecation |
+| 2026-09-20 11:54:55 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
