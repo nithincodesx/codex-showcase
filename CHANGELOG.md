@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-18 16:07:42 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-18 16:49:03 | `feat(frontend)` | implement HUD header with audio input level indicators |
 | 2026-09-18 17:30:24 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-18 18:11:45 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-24 11:17:56 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-09-24 11:55:12 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-09-24 12:32:28 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
+| 2026-09-24 13:09:44 | `feat(memory)` | create conversation log schema and message insertion utility |
