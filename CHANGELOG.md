@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-19 13:08:39 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-19 13:55:06 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-19 14:41:33 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-19 15:28:00 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-24 19:15:24 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-24 19:52:40 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-09-24 20:29:56 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
+| 2026-09-24 21:07:12 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
