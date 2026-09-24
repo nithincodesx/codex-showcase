@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-18 13:29:18 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-18 14:10:39 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-18 14:52:00 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-18 15:33:21 | `style(frontend)` | define military terminal color palette and CRT scanlines |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-20 21:06:55 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-20 21:44:11 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-24 10:03:24 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
+| 2026-09-24 10:40:40 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
