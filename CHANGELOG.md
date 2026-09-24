@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-18 21:38:30 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-19 10:02:50 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-19 10:49:17 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-19 11:35:44 | `feat(frontend)` | implement HUD header with audio input level indicators |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-24 16:09:04 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-24 16:46:20 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-09-24 17:23:36 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
+| 2026-09-24 18:00:52 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
