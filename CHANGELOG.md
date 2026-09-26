@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-19 20:46:11 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-19 21:32:38 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-20 10:03:07 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-20 10:40:23 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 13:30:26 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-09-26 14:11:47 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-09-26 14:46:08 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
+| 2026-09-26 15:27:29 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
