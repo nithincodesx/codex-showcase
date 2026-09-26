@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 11:54:55 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-20 12:32:11 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-20 13:09:27 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-20 13:46:43 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 16:50:11 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-09-26 17:31:32 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-09-26 18:12:53 | `feat(memory)` | create conversation log schema and message insertion utility |
+| 2026-09-26 18:54:14 | `feat(tools)` | implement system process monitor and top memory consumer alert |
