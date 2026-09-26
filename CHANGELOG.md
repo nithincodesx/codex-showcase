@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 10:03:07 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-20 10:40:23 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-20 11:17:39 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-20 11:54:55 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 14:46:08 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-09-26 15:27:29 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-09-26 16:08:50 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
+| 2026-09-26 16:50:11 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
