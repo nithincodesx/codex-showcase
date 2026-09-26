@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-19 15:28:00 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-19 16:14:28 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-19 16:53:55 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-19 17:40:22 | `chore(repo)` | initialize repository structure and submodule deprecation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-24 21:07:12 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-09-24 21:44:28 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-09-26 10:03:41 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
+| 2026-09-26 10:45:02 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
