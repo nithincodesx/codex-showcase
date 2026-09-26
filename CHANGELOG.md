@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-19 14:41:33 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-19 15:28:00 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-19 16:14:28 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-19 16:53:55 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-24 20:29:56 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-09-24 21:07:12 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-09-24 21:44:28 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
+| 2026-09-26 10:03:41 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
