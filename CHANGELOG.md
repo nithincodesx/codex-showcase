@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 13:46:43 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-20 14:23:59 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-20 14:54:15 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-20 15:31:31 | `feat(frontend)` | implement HUD header with audio input level indicators |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 18:54:14 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-26 19:35:35 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-26 20:16:56 | `feat(memory)` | load previous interaction history on session startup |
+| 2026-09-26 20:58:17 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
