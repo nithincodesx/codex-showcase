@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-19 19:59:44 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-19 20:46:11 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-19 21:32:38 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-20 10:03:07 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 12:49:05 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-09-26 13:30:26 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-09-26 14:11:47 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
+| 2026-09-26 14:46:08 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
