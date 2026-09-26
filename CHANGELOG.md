@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 13:09:27 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
 | 2026-09-20 13:46:43 | `perf(frontend)` | optimize canvas requestAnimationFrame loop for 60fps rendering |
 | 2026-09-20 14:23:59 | `style(frontend)` | define military terminal color palette and CRT scanlines |
 | 2026-09-20 14:54:15 | `chore(config)` | configure TypeScript paths and ESLint rules |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 18:12:53 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-09-26 18:54:14 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-26 19:35:35 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
+| 2026-09-26 20:16:56 | `feat(memory)` | load previous interaction history on session startup |
