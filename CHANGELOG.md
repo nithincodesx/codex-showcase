@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-19 17:40:22 | `chore(repo)` | initialize repository structure and submodule deprecation |
 | 2026-09-19 18:26:49 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-19 19:13:17 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-19 19:59:44 | `feat(audio)` | initialize Deepgram Nova-2 streaming speech-to-text integration |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 10:45:02 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-09-26 11:26:23 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-26 12:07:44 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
+| 2026-09-26 12:49:05 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
