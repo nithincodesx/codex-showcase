@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 18:37:51 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
 | 2026-09-20 19:15:07 | `feat(frontend)` | scaffold Next.js 15 application with App Router |
 | 2026-09-20 19:52:23 | `perf(audio)` | tune Silero VAD sensitivity threshold and silence window |
 | 2026-09-20 20:29:39 | `chore(repo)` | initialize repository structure and submodule deprecation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-27 12:23:19 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-09-27 13:09:47 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-27 13:56:14 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
+| 2026-09-27 14:35:41 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
