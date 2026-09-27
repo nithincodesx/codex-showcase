@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 14:54:15 | `chore(config)` | configure TypeScript paths and ESLint rules |
 | 2026-09-20 15:31:31 | `feat(frontend)` | implement HUD header with audio input level indicators |
 | 2026-09-20 16:08:47 | `feat(webrtc)` | add dynamic room token minting route in Next.js API |
 | 2026-09-20 16:46:03 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-26 20:16:56 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-09-26 20:58:17 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-09-26 21:39:38 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
+| 2026-09-27 10:03:58 | `feat(tools)` | implement system process monitor and top memory consumer alert |
