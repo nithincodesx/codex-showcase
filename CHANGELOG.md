@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 16:46:03 | `feat(frontend)` | create canvas-based radar sweep visualizer skeleton |
 | 2026-09-20 17:23:19 | `feat(webrtc)` | implement LiveKit agent room connection and event dispatching |
 | 2026-09-20 18:00:35 | `feat(frontend)` | configure JetBrains Mono typography and dark theme tokens |
 | 2026-09-20 18:37:51 | `fix(audio)` | resolve buffer underrun in audio output stream during high jitter |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-27 10:03:58 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-27 10:50:25 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-27 11:36:52 | `feat(memory)` | load previous interaction history on session startup |
+| 2026-09-27 12:23:19 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
