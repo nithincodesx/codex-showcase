@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-20 21:06:55 | `feat(audio)` | configure Deepgram Aura-2 voice synthesis stream with low-latency chunking |
 | 2026-09-20 21:44:11 | `docs(architecture)` | document WebRTC audio streaming flow and topology |
 | 2026-09-24 10:03:24 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-09-24 10:40:40 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-27 15:22:08 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-09-27 16:08:36 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-09-27 16:55:03 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
+| 2026-09-27 17:41:30 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
