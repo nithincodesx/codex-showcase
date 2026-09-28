@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-24 12:32:28 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-09-24 13:09:44 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-09-24 13:47:00 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-24 14:17:16 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-27 20:00:52 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-09-27 20:47:19 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-09-27 21:33:46 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
+| 2026-09-28 10:04:15 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
