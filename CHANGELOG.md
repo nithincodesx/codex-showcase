@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-24 19:15:24 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-24 19:52:40 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-09-24 20:29:56 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-09-24 21:07:12 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-28 14:55:23 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-28 15:32:39 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-09-28 16:09:55 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
+| 2026-09-28 16:47:11 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
