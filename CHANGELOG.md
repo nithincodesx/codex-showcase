@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-24 18:00:52 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-09-24 18:38:08 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-09-24 19:15:24 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-24 19:52:40 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-28 13:40:51 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-09-28 14:18:07 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-28 14:55:23 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
+| 2026-09-28 15:32:39 | `feat(memory)` | load previous interaction history on session startup |
