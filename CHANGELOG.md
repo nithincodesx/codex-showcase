@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-26 11:26:23 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-26 12:07:44 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-09-26 12:49:05 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-09-26 13:30:26 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-28 19:16:15 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-09-28 19:53:31 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-28 20:30:47 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
+| 2026-09-28 21:08:03 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
