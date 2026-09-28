@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-24 20:29:56 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-09-24 21:07:12 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-09-24 21:44:28 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-09-26 10:03:41 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-28 16:09:55 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-09-28 16:47:11 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-28 17:24:27 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
+| 2026-09-28 18:01:43 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
