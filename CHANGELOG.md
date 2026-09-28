@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-24 13:47:00 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-24 14:17:16 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-24 14:54:32 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-09-24 15:31:48 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-27 21:33:46 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-09-28 10:04:15 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-09-28 10:41:31 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
+| 2026-09-28 11:18:47 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
