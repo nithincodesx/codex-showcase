@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-27 13:09:47 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-27 13:56:14 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-09-27 14:35:41 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-09-27 15:22:08 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-29 19:16:32 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-29 19:53:48 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-09-29 20:31:04 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
+| 2026-09-29 21:08:20 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
