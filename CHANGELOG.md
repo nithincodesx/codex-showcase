@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-26 19:35:35 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-26 20:16:56 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-09-26 20:58:17 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-09-26 21:39:38 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-29 14:18:24 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-09-29 14:55:40 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-09-29 15:32:56 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
+| 2026-09-29 16:10:12 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
