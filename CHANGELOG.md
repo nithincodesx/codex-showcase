@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-26 20:16:56 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-09-26 20:58:17 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-09-26 21:39:38 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-27 10:03:58 | `feat(tools)` | implement system process monitor and top memory consumer alert |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-29 14:55:40 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-09-29 15:32:56 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-09-29 16:10:12 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
+| 2026-09-29 16:47:28 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
