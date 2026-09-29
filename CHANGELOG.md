@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-26 21:39:38 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-27 10:03:58 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-27 10:50:25 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-27 11:36:52 | `feat(memory)` | load previous interaction history on session startup |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-29 16:10:12 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-09-29 16:47:28 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-09-29 17:24:44 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
+| 2026-09-29 18:02:00 | `feat(memory)` | create conversation log schema and message insertion utility |
