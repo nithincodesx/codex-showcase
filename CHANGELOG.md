@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-28 10:04:15 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-09-28 10:41:31 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-09-28 11:18:47 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-09-28 11:56:03 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-30 14:47:16 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-09-30 15:28:37 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-09-30 16:09:58 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
+| 2026-09-30 16:51:19 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
