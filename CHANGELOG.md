@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-27 17:41:30 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-09-27 18:27:57 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-09-27 19:14:25 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-09-27 20:00:52 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-30 10:46:10 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-09-30 11:27:31 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-09-30 12:08:52 | `feat(memory)` | load previous interaction history on session startup |
+| 2026-09-30 12:50:13 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
