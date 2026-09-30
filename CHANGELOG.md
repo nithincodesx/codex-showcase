@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-28 11:18:47 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-09-28 11:56:03 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-09-28 12:33:19 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-09-28 13:10:35 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-30 16:09:58 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-09-30 16:51:19 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-30 17:32:40 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
+| 2026-09-30 18:14:01 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
