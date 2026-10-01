@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-28 16:09:55 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-09-28 16:47:11 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-28 17:24:27 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-09-28 18:01:43 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-09-30 21:40:46 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-01 10:05:06 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-01 10:51:33 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
+| 2026-10-01 11:38:00 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
