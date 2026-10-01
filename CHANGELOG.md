@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-28 18:38:59 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-09-28 19:16:15 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-09-28 19:53:31 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-09-28 20:30:47 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-01 12:24:27 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-01 13:03:55 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-01 13:50:22 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
+| 2026-10-01 14:36:49 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
