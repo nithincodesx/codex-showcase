@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-28 16:47:11 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-28 17:24:27 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-09-28 18:01:43 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-09-28 18:38:59 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-01 10:05:06 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-01 10:51:33 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-01 11:38:00 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
+| 2026-10-01 12:24:27 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
