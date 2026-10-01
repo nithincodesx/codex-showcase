@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-29 10:04:32 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-09-29 10:41:48 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-09-29 11:19:04 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-09-29 11:56:20 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-01 16:56:11 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-10-01 17:42:38 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-10-01 18:29:05 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
+| 2026-10-01 19:15:33 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
