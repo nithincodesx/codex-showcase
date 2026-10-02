@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-29 16:47:28 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-09-29 17:24:44 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-09-29 18:02:00 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-09-29 18:39:16 | `feat(tools)` | implement system process monitor and top memory consumer alert |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-02 12:27:27 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-02 13:04:43 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-10-02 13:41:59 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
+| 2026-10-02 14:19:15 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
