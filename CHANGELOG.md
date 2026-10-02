@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-09-30 12:08:52 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-09-30 12:50:13 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-09-30 13:24:34 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-09-30 14:05:55 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-02 19:54:39 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-10-02 20:24:55 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-10-02 21:02:11 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
+| 2026-10-02 21:39:27 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
