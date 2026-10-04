@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-01 10:51:33 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-01 11:38:00 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-01 12:24:27 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-01 13:03:55 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-04 17:25:52 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-10-04 18:03:08 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-04 18:40:24 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
+| 2026-10-04 19:17:40 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
