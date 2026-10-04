@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-01 13:03:55 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-01 13:50:22 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-01 14:36:49 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-10-01 15:23:16 | `feat(memory)` | create conversation log schema and message insertion utility |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-04 19:17:40 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-04 19:54:56 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-04 20:25:12 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
+| 2026-10-04 21:02:28 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
