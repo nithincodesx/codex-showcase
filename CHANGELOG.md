@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-01 16:09:44 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-10-01 16:56:11 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-10-01 17:42:38 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-10-01 18:29:05 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-04 21:39:44 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-05 10:05:57 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-05 10:47:18 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
+| 2026-10-05 11:28:39 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
