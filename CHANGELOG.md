@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-01 15:23:16 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-10-01 16:09:44 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-10-01 16:56:11 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-10-01 17:42:38 | `feat(memory)` | load previous interaction history on session startup |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-04 21:02:28 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-04 21:39:44 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-05 10:05:57 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
+| 2026-10-05 10:47:18 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
