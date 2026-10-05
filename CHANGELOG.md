@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-02 13:04:43 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-10-02 13:41:59 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-02 14:19:15 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-02 14:56:31 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-05 18:15:09 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-10-05 18:56:30 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-10-05 19:37:51 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
+| 2026-10-05 20:19:12 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
