@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-01 20:48:27 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-10-01 21:34:54 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-10-02 10:05:23 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-10-02 10:42:39 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-05 13:25:42 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-05 14:07:03 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-05 14:48:24 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
+| 2026-10-05 15:29:45 | `feat(memory)` | create conversation log schema and message insertion utility |
