@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-02 19:17:23 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-10-02 19:54:39 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-10-02 20:24:55 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-10-02 21:02:11 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-07 13:05:03 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-10-07 13:51:30 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-07 14:37:57 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
+| 2026-10-07 15:24:24 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
