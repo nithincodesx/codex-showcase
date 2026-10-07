@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-02 21:39:27 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-10-04 10:05:40 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-10-04 10:42:56 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-10-04 11:20:12 | `feat(tools)` | implement system process monitor and top memory consumer alert |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-07 16:10:52 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-07 16:57:19 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-07 17:43:46 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
+| 2026-10-07 18:30:13 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
