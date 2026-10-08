@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-04 19:54:56 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-04 20:25:12 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-04 21:02:28 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-04 21:39:44 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-08 15:34:55 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-10-08 16:12:11 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-10-08 16:49:27 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
+| 2026-10-08 17:26:43 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
