@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-04 21:39:44 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-05 10:05:57 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-05 10:47:18 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-05 11:28:39 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-08 17:26:43 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-08 18:03:59 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-10-08 18:41:15 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
+| 2026-10-08 19:11:31 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
