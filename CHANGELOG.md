@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-05 10:47:18 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-05 11:28:39 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-05 12:03:00 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-05 12:44:21 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-08 18:41:15 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-08 19:11:31 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-08 19:48:47 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
+| 2026-10-08 20:26:03 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
