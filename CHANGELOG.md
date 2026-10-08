@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-04 18:03:08 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-04 18:40:24 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-04 19:17:40 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-04 19:54:56 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-08 13:43:07 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-10-08 14:20:23 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-10-08 14:57:39 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
+| 2026-10-08 15:34:55 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
