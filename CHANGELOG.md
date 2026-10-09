@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-05 12:44:21 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-05 13:25:42 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-05 14:07:03 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-05 14:48:24 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-08 20:26:03 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-08 21:03:19 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-08 21:40:35 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
+| 2026-10-09 10:06:48 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
