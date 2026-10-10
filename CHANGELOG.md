@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-08 11:14:03 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-10-08 11:51:19 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-10-08 12:28:35 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-10-08 13:05:51 | `feat(memory)` | load previous interaction history on session startup |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-10 16:12:14 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-10 16:53:35 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-10 17:34:56 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
+| 2026-10-10 18:16:17 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
