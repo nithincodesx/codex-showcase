@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-07 15:24:24 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-07 16:10:52 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-07 16:57:19 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-07 17:43:46 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-09 21:03:36 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-10-09 21:40:52 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-10 10:00:05 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
+| 2026-10-10 10:41:26 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
