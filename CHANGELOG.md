@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-08 21:03:19 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-08 21:40:35 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-09 10:06:48 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-10-09 10:37:04 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-12 15:25:32 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-12 16:12:00 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-12 16:58:27 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
+| 2026-10-12 17:44:54 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
