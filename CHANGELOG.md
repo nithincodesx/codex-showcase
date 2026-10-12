@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-08 16:12:11 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-10-08 16:49:27 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-10-08 17:26:43 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-08 18:03:59 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-10 21:36:02 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-10-12 10:00:22 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-12 10:46:49 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
+| 2026-10-12 11:33:16 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
