@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-08 17:26:43 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-08 18:03:59 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-10-08 18:41:15 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-08 19:11:31 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-12 10:46:49 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-12 11:33:16 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-12 12:19:43 | `test` | add automated tests for voice agent tool routing |
+| 2026-10-12 13:06:11 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
