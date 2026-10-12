@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-09 11:51:36 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-09 12:28:52 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-09 13:06:08 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-09 13:43:24 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-12 19:17:49 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-12 19:57:16 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-12 20:43:43 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
+| 2026-10-12 21:30:10 | `docs` | update architecture documentation and flow diagrams in README |
