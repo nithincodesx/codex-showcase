@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-09 10:37:04 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-09 11:14:20 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-09 11:51:36 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-09 12:28:52 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-12 17:44:54 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
 | 2026-10-12 18:31:21 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-12 19:17:49 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
+| 2026-10-12 19:57:16 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
