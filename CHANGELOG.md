@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-08 14:57:39 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-10-08 15:34:55 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-10-08 16:12:11 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-10-08 16:49:27 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-10 20:13:20 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-10-10 20:54:41 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-10-10 21:36:02 | `feat(tools)` | implement system process monitor and top memory consumer alert |
+| 2026-10-12 10:00:22 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
