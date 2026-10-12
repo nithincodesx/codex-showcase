@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-08 19:48:47 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-08 20:26:03 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-08 21:03:19 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-08 21:40:35 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-12 13:52:38 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-12 14:39:05 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-12 15:25:32 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
+| 2026-10-12 16:12:00 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
