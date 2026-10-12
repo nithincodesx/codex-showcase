@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-08 18:41:15 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-08 19:11:31 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-08 19:48:47 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-08 20:26:03 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-12 12:19:43 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-12 13:06:11 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-12 13:52:38 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
+| 2026-10-12 14:39:05 | `fix` | ensure smooth audio playback transition on interruption |
