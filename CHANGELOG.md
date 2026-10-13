@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-09 18:34:32 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-10-09 19:11:48 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-10-09 19:49:04 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-10-09 20:26:20 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-13 14:21:31 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-13 14:58:47 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-13 15:36:03 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
+| 2026-10-13 16:13:19 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
