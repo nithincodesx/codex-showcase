@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-10 10:00:05 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-10-10 10:41:26 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-10-10 11:22:47 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
 | 2026-10-10 12:04:08 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-13 17:58:07 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-13 18:35:23 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-13 19:12:39 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
+| 2026-10-13 19:49:55 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
