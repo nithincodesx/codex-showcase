@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-09 17:27:00 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-10-09 18:04:16 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
 | 2026-10-09 18:34:32 | `feat(llm)` | implement multi-provider fallback chain for resilience against rate limits |
 | 2026-10-09 19:11:48 | `fix(memory)` | handle connection timeouts gracefully without stalling voice loop |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-13 13:06:59 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-13 13:44:15 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-13 14:21:31 | `chore(config)` | add opencode.jsonc configuration for development workflow |
+| 2026-10-13 14:58:47 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
