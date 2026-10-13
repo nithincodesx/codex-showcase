@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-09 20:26:20 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-10-09 21:03:36 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-10-09 21:40:52 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-10 10:00:05 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-13 16:13:19 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-10-13 16:50:35 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-13 17:27:51 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
+| 2026-10-13 17:58:07 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
