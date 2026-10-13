@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-09 16:12:28 | `feat(tools)` | implement system process monitor and top memory consumer alert |
 | 2026-10-09 16:49:44 | `feat(llm)` | integrate Cerebras and OpenRouter primary inference client |
 | 2026-10-09 17:27:00 | `feat(memory)` | load previous interaction history on session startup |
 | 2026-10-09 18:04:16 | `feat(tools)` | add local desktop application launcher with fuzzy matching |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-13 11:52:27 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-13 12:29:43 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-13 13:06:59 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
+| 2026-10-13 13:44:15 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
