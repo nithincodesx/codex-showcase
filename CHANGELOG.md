@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-09 13:43:24 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-09 14:20:40 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-09 14:57:56 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-10-09 15:35:12 | `feat(memory)` | create conversation log schema and message insertion utility |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-12 21:30:10 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-13 10:00:39 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-13 10:37:55 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
+| 2026-10-13 11:15:11 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
