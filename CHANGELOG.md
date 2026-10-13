@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-10 12:04:08 | `feat(voice-phases)` | implement two-phase voice architecture: command parsing and response generation |
 | 2026-10-10 12:45:29 | `refactor(llm)` | structure agent system prompt with explicit conversational constraints |
 | 2026-10-10 13:26:50 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-10-10 14:08:11 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-13 19:49:55 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-13 20:27:11 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-13 21:04:27 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
+| 2026-10-13 21:41:43 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
