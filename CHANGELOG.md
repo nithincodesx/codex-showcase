@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-10 16:53:35 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-10 17:34:56 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
 | 2026-10-10 18:16:17 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-10 18:57:38 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-14 11:52:44 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-14 12:30:00 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-14 13:07:16 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
+| 2026-10-14 13:44:32 | `fix` | ensure smooth audio playback transition on interruption |
