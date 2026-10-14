@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-10 18:16:17 | `perf(voice-phases)` | cache common intent parsing schemas to reduce token deserialization |
 | 2026-10-10 18:57:38 | `feat(memory)` | connect Supabase Postgres client for persistent session memory |
 | 2026-10-10 19:31:59 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-10 20:13:20 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-14 13:07:16 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-14 13:44:32 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-14 14:21:48 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
+| 2026-10-14 14:59:04 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
