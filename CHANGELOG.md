@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-12 10:46:49 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-12 11:33:16 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-12 12:19:43 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-12 13:06:11 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-14 17:21:08 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-14 17:58:24 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-14 18:35:40 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
+| 2026-10-14 19:12:56 | `docs` | update architecture documentation and flow diagrams in README |
