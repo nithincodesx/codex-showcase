@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-10 15:30:53 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
 | 2026-10-10 16:12:14 | `refactor(voice-phases)` | decouple rule evaluation from response formatting prompts |
 | 2026-10-10 16:53:35 | `perf(llm)` | minimize prompt overhead to reduce time-to-first-token |
 | 2026-10-10 17:34:56 | `feat(tools)` | integrate Open-Meteo weather forecast tool |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-14 10:38:12 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-14 11:15:28 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-14 11:52:44 | `test` | add automated tests for voice agent tool routing |
+| 2026-10-14 12:30:00 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
