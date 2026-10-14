@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-12 13:06:11 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-12 13:52:38 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-12 14:39:05 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-12 15:25:32 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-14 19:12:56 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-14 19:50:12 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-14 20:27:28 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
+| 2026-10-14 21:04:44 | `chore(config)` | add opencode.jsonc configuration for development workflow |
