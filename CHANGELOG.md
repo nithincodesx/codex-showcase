@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-10 13:26:50 | `feat(tools)` | implement YouTube music playback via yt-dlp and ffplay background process |
 | 2026-10-10 14:08:11 | `feat(voice-phases)` | enforce structured JSON output format for LLM intent classification |
 | 2026-10-10 14:49:32 | `feat(llm)` | calibrate companion tone for concise 1-3 sentence spoken output |
 | 2026-10-10 15:30:53 | `feat(tools)` | add native Windows media keys control (play, pause, next, prev) |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-13 21:04:27 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-13 21:41:43 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-14 10:00:56 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
+| 2026-10-14 10:38:12 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
