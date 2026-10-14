@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-10 19:31:59 | `feat(tools)` | add DuckDuckGo web search tool with summary extraction |
 | 2026-10-10 20:13:20 | `feat(backend)` | initialize Python LiveKit agent worker loop and job handler |
 | 2026-10-10 20:54:41 | `feat(memory)` | create conversation log schema and message insertion utility |
 | 2026-10-10 21:36:02 | `feat(tools)` | implement system process monitor and top memory consumer alert |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-14 14:21:48 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-14 14:59:04 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-14 15:36:20 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
+| 2026-10-14 16:13:36 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
