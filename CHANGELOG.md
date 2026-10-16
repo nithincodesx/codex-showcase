@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-12 19:17:49 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-12 19:57:16 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-12 20:43:43 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-12 21:30:10 | `docs` | update architecture documentation and flow diagrams in README |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-16 12:05:16 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-16 12:46:37 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-16 13:27:58 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
+| 2026-10-16 14:09:19 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
