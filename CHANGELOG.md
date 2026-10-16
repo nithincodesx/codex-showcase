@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-13 14:21:31 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-13 14:58:47 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-13 15:36:03 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
 | 2026-10-13 16:13:19 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-16 19:33:07 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-16 20:14:28 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-16 20:55:49 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
+| 2026-10-16 21:37:10 | `fix` | ensure smooth audio playback transition on interruption |
