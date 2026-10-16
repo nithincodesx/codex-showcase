@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-13 12:29:43 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-13 13:06:59 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-13 13:44:15 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-13 14:21:31 | `chore(config)` | add opencode.jsonc configuration for development workflow |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-16 17:36:04 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-16 18:10:25 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-16 18:51:46 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
+| 2026-10-16 19:33:07 | `test` | add automated tests for voice agent tool routing |
