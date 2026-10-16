@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-12 16:12:00 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-12 16:58:27 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
 | 2026-10-12 17:44:54 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
 | 2026-10-12 18:31:21 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-14 21:42:00 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-16 10:01:13 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-16 10:42:34 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
+| 2026-10-16 11:23:55 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
