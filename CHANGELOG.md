@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-13 13:44:15 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-13 14:21:31 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-13 14:58:47 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-13 15:36:03 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-16 18:51:46 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-16 19:33:07 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-16 20:14:28 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
+| 2026-10-16 20:55:49 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
