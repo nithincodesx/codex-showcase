@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-13 21:41:43 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-14 10:00:56 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-14 10:38:12 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-14 11:15:28 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-17 16:13:08 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-17 16:59:35 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
 | 2026-10-17 17:46:02 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
+| 2026-10-17 18:25:29 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
