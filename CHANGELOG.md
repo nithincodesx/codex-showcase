@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-14 10:38:12 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-14 11:15:28 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-14 11:52:44 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-14 12:30:00 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-17 17:46:02 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
 | 2026-10-17 18:25:29 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-17 19:11:57 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
+| 2026-10-17 19:58:24 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
