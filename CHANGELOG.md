@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-13 21:04:27 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-13 21:41:43 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-14 10:00:56 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-14 10:38:12 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-17 15:26:40 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-17 16:13:08 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-17 16:59:35 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
+| 2026-10-17 17:46:02 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
