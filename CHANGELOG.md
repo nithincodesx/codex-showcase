@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-13 17:27:51 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-13 17:58:07 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-13 18:35:23 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-13 19:12:39 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-17 10:47:57 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-17 11:34:24 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-17 12:20:51 | `test` | add automated tests for voice agent tool routing |
+| 2026-10-17 13:07:19 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
