@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-14 11:52:44 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-14 12:30:00 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-14 13:07:16 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-14 13:44:32 | `fix` | ensure smooth audio playback transition on interruption |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-17 19:11:57 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-17 19:58:24 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-17 20:44:51 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
+| 2026-10-17 21:31:18 | `docs` | update architecture documentation and flow diagrams in README |
