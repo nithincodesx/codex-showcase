@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-13 19:49:55 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-13 20:27:11 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-13 21:04:27 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-13 21:41:43 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-17 13:53:46 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-17 14:40:13 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-17 15:26:40 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
+| 2026-10-17 16:13:08 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
