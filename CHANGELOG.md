@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-16 11:23:55 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-16 12:05:16 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-16 12:46:37 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-16 13:27:58 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-21 19:13:47 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-21 19:51:03 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-21 20:28:19 | `fix` | ensure smooth audio playback transition on interruption |
+| 2026-10-21 21:05:35 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
