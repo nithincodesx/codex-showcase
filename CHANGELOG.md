@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-14 13:07:16 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-14 13:44:32 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-14 14:21:48 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-14 14:59:04 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-17 20:44:51 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-17 21:31:18 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-21 10:01:47 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
+| 2026-10-21 10:39:03 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
