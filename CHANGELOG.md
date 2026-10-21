@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-14 19:12:56 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-14 19:50:12 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-14 20:27:28 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-14 21:04:44 | `chore(config)` | add opencode.jsonc configuration for development workflow |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-21 14:59:55 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-21 15:37:11 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
 | 2026-10-21 16:14:27 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
+| 2026-10-21 16:44:43 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
