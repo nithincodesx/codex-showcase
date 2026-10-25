@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-17 12:20:51 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-17 13:07:19 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-17 13:53:46 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-17 14:40:13 | `fix` | ensure smooth audio playback transition on interruption |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-25 18:36:48 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-25 19:14:04 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-25 19:51:20 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
+| 2026-10-25 20:28:36 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
