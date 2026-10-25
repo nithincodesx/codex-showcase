@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-16 20:14:28 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-16 20:55:49 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-16 21:37:10 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-17 10:01:30 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-25 15:00:12 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-25 15:37:28 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
 | 2026-10-25 16:07:44 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
+| 2026-10-25 16:45:00 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
