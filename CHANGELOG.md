@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-17 13:53:46 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-17 14:40:13 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-17 15:26:40 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-17 16:13:08 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-25 19:51:20 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-25 20:28:36 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-25 21:05:52 | `chore(config)` | add opencode.jsonc configuration for development workflow |
+| 2026-10-25 21:43:08 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
