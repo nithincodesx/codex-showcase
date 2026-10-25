@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-16 18:10:25 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-16 18:51:46 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-16 19:33:07 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-16 20:14:28 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-25 13:08:24 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-25 13:45:40 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-25 14:22:56 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
+| 2026-10-25 15:00:12 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
