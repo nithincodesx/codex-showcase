@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-16 15:32:01 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-16 16:13:22 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
 | 2026-10-16 16:54:43 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-10-16 17:36:04 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-25 10:39:20 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-25 11:16:36 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-25 11:53:52 | `test` | add automated tests for voice agent tool routing |
+| 2026-10-25 12:31:08 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
