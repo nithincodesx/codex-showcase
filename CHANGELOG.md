@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-17 10:01:30 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-17 10:47:57 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-17 11:34:24 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-17 12:20:51 | `test` | add automated tests for voice agent tool routing |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-25 16:45:00 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-25 17:22:16 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-25 17:59:32 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
+| 2026-10-25 18:36:48 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
