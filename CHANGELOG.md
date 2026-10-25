@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-16 16:54:43 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-10-16 17:36:04 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-16 18:10:25 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-16 18:51:46 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-25 11:53:52 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-25 12:31:08 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-25 13:08:24 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
+| 2026-10-25 13:45:40 | `fix` | ensure smooth audio playback transition on interruption |
