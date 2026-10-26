@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-21 10:01:47 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-21 10:39:03 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-21 11:16:19 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-21 11:53:35 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-26 14:51:48 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-26 15:33:09 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-26 16:07:30 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
+| 2026-10-26 16:48:51 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
