@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-17 20:44:51 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-17 21:31:18 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-21 10:01:47 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-21 10:39:03 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-26 13:29:06 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-26 14:10:27 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-26 14:51:48 | `chore(config)` | add opencode.jsonc configuration for development workflow |
+| 2026-10-26 15:33:09 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
