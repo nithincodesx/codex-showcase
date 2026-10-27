@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-21 15:37:11 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
 | 2026-10-21 16:14:27 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-10-21 16:44:43 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-21 17:21:59 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-26 20:56:57 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-26 21:38:18 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-27 10:02:38 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
+| 2026-10-27 10:49:05 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
