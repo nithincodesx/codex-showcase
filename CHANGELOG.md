@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-25 10:02:04 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-25 10:39:20 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-25 11:16:36 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-25 11:53:52 | `test` | add automated tests for voice agent tool routing |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-27 16:53:43 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
 | 2026-10-27 17:40:10 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
 | 2026-10-27 18:26:37 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
+| 2026-10-27 19:13:05 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
