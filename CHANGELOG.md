@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-26 10:02:21 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-26 10:43:42 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-26 11:25:03 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-26 12:06:24 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-28 18:00:23 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-28 18:37:39 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-28 19:14:55 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
+| 2026-10-28 19:52:11 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
