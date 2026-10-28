@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-25 20:28:36 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-25 21:05:52 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-25 21:43:08 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-26 10:02:21 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-28 16:08:35 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-10-28 16:45:51 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-28 17:23:07 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
+| 2026-10-28 18:00:23 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
