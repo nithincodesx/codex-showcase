@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-26 19:34:15 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-26 20:15:36 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-26 20:56:57 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-26 21:38:18 | `fix` | ensure smooth audio playback transition on interruption |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-29 14:24:04 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-29 14:54:20 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-29 15:31:36 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
+| 2026-10-29 16:08:52 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
