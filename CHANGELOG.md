@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-26 13:29:06 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-26 14:10:27 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-26 14:51:48 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-26 15:33:09 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-28 21:06:43 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-28 21:43:59 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-29 10:03:12 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
+| 2026-10-29 10:40:28 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
