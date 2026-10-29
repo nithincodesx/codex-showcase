@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-26 12:47:45 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-26 13:29:06 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-26 14:10:27 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-26 14:51:48 | `chore(config)` | add opencode.jsonc configuration for development workflow |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-28 20:29:27 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-28 21:06:43 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-28 21:43:59 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
+| 2026-10-29 10:03:12 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
