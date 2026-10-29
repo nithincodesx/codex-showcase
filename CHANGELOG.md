@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-26 18:52:54 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-26 19:34:15 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-26 20:15:36 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-26 20:56:57 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-29 13:46:48 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-29 14:24:04 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-29 14:54:20 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
+| 2026-10-29 15:31:36 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
