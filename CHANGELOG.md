@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-26 21:38:18 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-27 10:02:38 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-27 10:49:05 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-27 11:35:32 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-29 16:08:52 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
 | 2026-10-29 16:46:08 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-29 17:23:24 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
+| 2026-10-29 18:00:40 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
