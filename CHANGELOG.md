@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-27 19:59:32 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-10-27 20:45:59 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-27 21:32:26 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-28 10:02:55 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-30 12:48:53 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-30 13:30:14 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-30 14:11:35 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
+| 2026-10-30 14:45:56 | `chore(config)` | add opencode.jsonc configuration for development workflow |
