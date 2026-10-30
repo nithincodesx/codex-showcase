@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-27 14:41:21 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-27 15:27:48 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-27 16:14:16 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-27 16:53:43 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-29 20:29:44 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-29 21:07:00 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-29 21:44:16 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
+| 2026-10-30 10:03:29 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
