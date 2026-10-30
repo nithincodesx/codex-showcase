@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-27 21:32:26 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-28 10:02:55 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-28 10:40:11 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-10-28 11:17:27 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-30 14:11:35 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-30 14:45:56 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-30 15:27:17 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
+| 2026-10-30 16:08:38 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
