@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-28 11:54:43 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-10-28 12:31:59 | `docs` | update architecture documentation and flow diagrams in README |
 | 2026-10-28 13:09:15 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-28 13:46:31 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-30 16:49:59 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-10-30 17:31:20 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-30 18:12:41 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
+| 2026-10-30 18:54:02 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
