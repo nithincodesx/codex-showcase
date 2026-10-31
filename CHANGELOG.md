@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-28 18:00:23 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-28 18:37:39 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-28 19:14:55 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-28 19:52:11 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-31 11:36:40 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-31 12:23:07 | `test` | add automated tests for voice agent tool routing |
 | 2026-10-31 13:09:35 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
+| 2026-10-31 13:56:02 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
