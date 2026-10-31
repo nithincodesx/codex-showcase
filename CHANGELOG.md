@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-28 19:14:55 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-28 19:52:11 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-28 20:29:27 | `fix` | ensure smooth audio playback transition on interruption |
 | 2026-10-28 21:06:43 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-31 13:09:35 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-31 13:56:02 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-31 14:42:29 | `fix` | ensure smooth audio playback transition on interruption |
+| 2026-10-31 15:21:56 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
