@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-28 14:54:03 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
 | 2026-10-28 15:31:19 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
 | 2026-10-28 16:08:35 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-10-28 16:45:51 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-30 20:16:44 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
 | 2026-10-30 20:58:05 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
 | 2026-10-30 21:39:26 | `fix` | ensure smooth audio playback transition on interruption |
+| 2026-10-31 10:03:46 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
