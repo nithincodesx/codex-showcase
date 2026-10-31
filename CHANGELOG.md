@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-28 16:45:51 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-28 17:23:07 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-28 18:00:23 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
 | 2026-10-28 18:37:39 | `test` | add automated tests for voice agent tool routing |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-10-31 10:03:46 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
 | 2026-10-31 10:50:13 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
 | 2026-10-31 11:36:40 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
+| 2026-10-31 12:23:07 | `test` | add automated tests for voice agent tool routing |
