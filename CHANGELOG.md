@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-29 14:24:04 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
 | 2026-10-29 14:54:20 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
 | 2026-10-29 15:31:36 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
 | 2026-10-29 16:08:52 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-11-01 10:04:03 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-11-01 10:41:19 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
 | 2026-11-01 11:18:35 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
+| 2026-11-01 11:55:51 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
