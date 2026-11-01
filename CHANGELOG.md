@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-29 19:52:28 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
 | 2026-10-29 20:29:44 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
 | 2026-10-29 21:07:00 | `chore(config)` | add opencode.jsonc configuration for development workflow |
 | 2026-10-29 21:44:16 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-11-01 15:32:27 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
 | 2026-11-01 16:09:43 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
 | 2026-11-01 16:46:59 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
+| 2026-11-01 17:24:15 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
