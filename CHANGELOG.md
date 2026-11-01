@@ -4,7 +4,6 @@ Daily milestones, architecture decisions, and progressive commits.
 
 | Timestamp | Scope | Description |
 |---|---|---|
-| 2026-10-29 15:31:36 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
 | 2026-10-29 16:08:52 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
 | 2026-10-29 16:46:08 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
 | 2026-10-29 17:23:24 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
@@ -54,3 +53,4 @@ Daily milestones, architecture decisions, and progressive commits.
 | 2026-11-01 11:18:35 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
 | 2026-11-01 11:55:51 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
 | 2026-11-01 12:33:07 | `docs` | update architecture documentation and flow diagrams in README |
+| 2026-11-01 13:10:23 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
