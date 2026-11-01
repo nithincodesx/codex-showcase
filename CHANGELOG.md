@@ -1,0 +1,56 @@
+# CODEX Development Changelog
+
+Daily milestones, architecture decisions, and progressive commits.
+
+| Timestamp | Scope | Description |
+|---|---|---|
+| 2026-10-30 12:48:53 | `docs` | update architecture documentation and flow diagrams in README |
+| 2026-10-30 13:30:14 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
+| 2026-10-30 14:11:35 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
+| 2026-10-30 14:45:56 | `chore(config)` | add opencode.jsonc configuration for development workflow |
+| 2026-10-30 15:27:17 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
+| 2026-10-30 16:08:38 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
+| 2026-10-30 16:49:59 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
+| 2026-10-30 17:31:20 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
+| 2026-10-30 18:12:41 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
+| 2026-10-30 18:54:02 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
+| 2026-10-30 19:35:23 | `test` | add automated tests for voice agent tool routing |
+| 2026-10-30 20:16:44 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
+| 2026-10-30 20:58:05 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
+| 2026-10-30 21:39:26 | `fix` | ensure smooth audio playback transition on interruption |
+| 2026-10-31 10:03:46 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
+| 2026-10-31 10:50:13 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
+| 2026-10-31 11:36:40 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
+| 2026-10-31 12:23:07 | `test` | add automated tests for voice agent tool routing |
+| 2026-10-31 13:09:35 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
+| 2026-10-31 13:56:02 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
+| 2026-10-31 14:42:29 | `fix` | ensure smooth audio playback transition on interruption |
+| 2026-10-31 15:21:56 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
+| 2026-10-31 16:08:24 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
+| 2026-10-31 16:54:51 | `perf` | fine-tune turn-taking debounce to prevent self-interruption |
+| 2026-10-31 17:41:18 | `feat(computer-use)` | build desktop perception module with multi-monitor screenshot capture |
+| 2026-10-31 18:27:45 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
+| 2026-10-31 19:14:13 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
+| 2026-10-31 20:00:40 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
+| 2026-10-31 20:47:07 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
+| 2026-10-31 21:33:34 | `docs` | update architecture documentation and flow diagrams in README |
+| 2026-11-01 10:04:03 | `feat(gemini)` | leverage native LiveKit Google plugin for seamless audio/multimodal integration |
+| 2026-11-01 10:41:19 | `docs` | document latency benchmarks across STT, LLM inference, and TTS generation |
+| 2026-11-01 11:18:35 | `test(fastpath)` | verify deterministic rule matching coverage across edge cases |
+| 2026-11-01 11:55:51 | `feat(gemini)` | transition primary LLM provider to Google Gemini 2.5 Flash |
+| 2026-11-01 12:33:07 | `docs` | update architecture documentation and flow diagrams in README |
+| 2026-11-01 13:10:23 | `feat(fastpath)` | add hot word triggers for screenshot, lock, mute, and search |
+| 2026-11-01 13:40:39 | `fix(computer-use)` | handle multi-monitor DPI coordinate offsets correctly on Windows |
+| 2026-11-01 14:17:55 | `chore(config)` | add opencode.jsonc configuration for development workflow |
+| 2026-11-01 14:55:11 | `perf(fastpath)` | bypass LLM inference loop entirely for immediate media and volume hot words |
+| 2026-11-01 15:32:27 | `feat(computer-use)` | add safety boundary checks to prevent accidental off-screen clicks |
+| 2026-11-01 16:09:43 | `chore(config)` | update .gitignore to exclude captured screenshots and temporary artifacts |
+| 2026-11-01 16:46:59 | `feat(fastpath)` | design regex-based fastpath rule parser for instant commands |
+| 2026-11-01 17:24:15 | `feat(computer-use)` | implement screen coordinate normalization for arbitrary resolutions |
+| 2026-11-01 18:01:31 | `feat(frontend)` | update frontend HUD badges with Gemini 2.5 Flash and Computer Use MCP |
+| 2026-11-01 18:38:47 | `test` | add automated tests for voice agent tool routing |
+| 2026-11-01 19:16:03 | `feat(computer-use)` | add keyboard automation tool: typing and shortcut execution |
+| 2026-11-01 19:53:19 | `feat(gemini)` | enable multimodal screen perception and active window reasoning |
+| 2026-11-01 20:30:35 | `fix` | ensure smooth audio playback transition on interruption |
+| 2026-11-01 21:07:51 | `feat(computer-use)` | implement pyautogui mouse automation: move, click, drag, scroll |
+| 2026-11-01 21:45:07 | `feat(gemini)` | update system prompt with enhanced desktop superpowers and companion persona |
